@@ -1,1 +1,20 @@
-# restfull-web-apis-book
+# Traduccion al espanol de libro restfull-web-apis-book
+Link libro:[Book](https://www.oreilly.com/library/view/restful-web-apis/9781449359713)
+
+Traducción por:
+AGUILERA ANGEL
+CABALLERO NATHALY
+CALLE ALEX
+CAPELO FRANCO
+CARRIEL ELKIN 
+CORREA DAVID
+CUESTA SEBASTIAN					
+ENCALADA LUIS FERNANDO					
+GUARACA WALTER 
+GUTIERREZ JUAN DIEGO					
+LUZURIAGA SALOME
+MUÑOZ KERLY
+OLIVO DAMIAN
+PRADO ERICK
+RAMOS ANTHONY
+TINOCO LUIS	
